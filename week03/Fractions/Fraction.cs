@@ -34,5 +34,3 @@ public class Fraction
     }
 }
 
-// I dont know if i'm supposed to just print the fraction to the screen or assign it to a variable. 
-// Do i only print them through the Gets? What do I do with the Set method?
