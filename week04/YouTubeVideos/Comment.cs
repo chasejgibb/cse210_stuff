@@ -11,6 +11,6 @@ public class Comment
 
     public void Display()
     {
-        Console.WriteLine($"Author: {_author}\nComment: {_text}\n");
+        Console.WriteLine($"Author: {_author}\nComment: {_text}");
     }
 }
