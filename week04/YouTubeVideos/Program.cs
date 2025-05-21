@@ -1,7 +1,4 @@
 using System;
-using System.Data;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 
 class Program
 {
