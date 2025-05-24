@@ -1,4 +1,3 @@
-using System.Security.Cryptography;
 
 public class ListingActivity : Activity
 {
